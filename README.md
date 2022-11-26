@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-soumyadeep
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning NFT
+- 👀 I’m interested in Blockchain Technology 
+- 🌱 Currently working on blockchain projects
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
