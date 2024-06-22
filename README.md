@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/soumyadeep98741" target="blank"><img src="https://img.shields.io/twitter/follow/soumyadeep98741?logo=twitter&style=for-the-badge" alt="soumyadeep98741" /></a> </p>
 
-- 🔭 I’m currently building **Stackles**
 
-- 🌱 I’m currently learning **NFTs**
+  
 
 - 👨‍💻 All of my projects are available at [https://dev-soumyadeep.github.io/portfolio/](https://dev-soumyadeep.github.io/portfolio/)
 
