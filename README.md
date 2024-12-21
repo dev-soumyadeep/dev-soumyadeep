@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web3 based document verification system**
 
-- 👨‍💻 All of my projects are available at [https://dev-soumyadeep.github.io/portfolio/](https://dev-soumyadeep.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://dev-soumyadeep.github.io/portfolio/]
 
 - 💬 Ask me about **Blockchain,Defi**
 
