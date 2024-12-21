@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **soumyadeeproy.csbs@gmail.com**
 
-- 📄 Know about my experiences [https://soumyadeep-s-portfolio.vercel.app/](https://soumyadeep-s-portfolio.vercel.app/)
+- 📄 Know about my experiences [[https://soumyadeep-portfolio.vercel.app/](https://soumyadeep-portfolio.vercel.app/)](https://soumyadeep-s-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
