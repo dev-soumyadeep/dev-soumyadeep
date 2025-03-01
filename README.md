@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-soumyadeep.github.io/portfolio/]
 
-- 💬 Ask me about **Blockchain,Defi**
+- 💬 Ask me about **Blockchain,Backend**
 
 - 📫 How to reach me **soumyadeeproy.csbs@gmail.com**
 
