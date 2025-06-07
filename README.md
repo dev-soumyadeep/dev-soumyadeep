@@ -38,13 +38,8 @@
 
 Here are some of my notable projects:
 
-- [**hardhat-fund-me**](https://github.com/dev-soumyadeep/hardhat-fund-me): A project developed using Hardhat to learn and implement blockchain concepts.
-
-- [**Remix-lottery**](https://github.com/dev-soumyadeep/Remix-lottery): A lottery project that accepts ethers, generates a random number, and transfers the ether to the randomly selected winner.
-
 - [**CryptoEstate**](https://github.com/dev-soumyadeep/CryptoEstate): A decentralized application (dApp) built on the Ethereum blockchain, enabling users to buy, sell, and rent properties securely and transparently.
 
-- [**Portfolio Website**](https://github.com/dev-soumyadeep/Portfolio-website): My personal portfolio website built using Next.js.
 
 - [**NGO Management App**](https://github.com/dev-soumyadeep/NGO): An application designed for NGOs to manage schools, students, inventory, and financial transactions efficiently.
 
