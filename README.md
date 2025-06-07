@@ -45,11 +45,5 @@ Here are some of my notable projects:
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-soumyadeep&show_icons=true&locale=en&layout=compact" alt="dev-soumyadeep" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-soumyadeep&show_icons=true&locale=en" alt="dev-soumyadeep" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-soumyadeep&" alt="dev-soumyadeep" /></p>
-
 
 
