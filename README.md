@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-soumyadeep&label=Profile%20views&color=0e75b6&style=flat" alt="dev-soumyadeep" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-soumyadeep" alt="dev-soumyadeep" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/soumyadeep98741" target="blank"><img src="https://img.shields.io/twitter/follow/soumyadeep98741?logo=twitter&style=for-the-badge" alt="soumyadeep98741" /></a> </p>
 
 - 🔭 I’m currently working on **Web3 based document verification system**
