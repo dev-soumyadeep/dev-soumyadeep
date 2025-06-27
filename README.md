@@ -30,7 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-soumyadeep&show_icons=true&locale=en" alt="dev-soumyadeep" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-soumyadeep&" alt="dev-soumyadeep" /></p>
 
 <h3 align="left">📂 Projects</h3>
 
